@@ -1,3 +1,3 @@
-THIS PROJECT WAS MADE BY ARSLAN
-YOUTUBE LINK: https://youtu.be/1EMz54RsNI4
+THIS PROJECT WAS MADE BY Pankaj Mandal
+Linkedin LINK: https://www.linkedin.com/in/pankaj-mandal10/
 Profile code is contained in Profile.js and Profile.css
