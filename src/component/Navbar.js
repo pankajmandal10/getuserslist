@@ -15,7 +15,7 @@ const NavBar = () => {
     >
       <Link to="/Profile" className= "bg-dark">
               <ReactBootStrap.Nav.Link eventKey={6} href="#Profile">
-                Click on Profile
+                Profile
               </ReactBootStrap.Nav.Link>
      </Link>
      
